@@ -14,7 +14,7 @@ const elements = data.map(item => {
 })
 
     return (
-        <ul className="app-list list-group">
+        <ul className="app-list list-group test">
             {elements}
         </ul>
     )
